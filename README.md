@@ -1,4 +1,4 @@
-# SimpleCropSupplyChain
+# Simple Crop SupplyChain
 
 Welcome to the **SimpleCropSupplyChain** repository! This project contains a Solidity smart contract designed to manage a basic crop supply chain. The contract allows for the seamless creation, transfer, and delivery tracking of crops, providing transparency and traceability throughout the supply chain.
 
