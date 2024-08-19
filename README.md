@@ -64,4 +64,4 @@ We welcome contributions to the **SimpleCropSupplyChain** project! If you have i
 
 ## License
 
-This project is licensed under the `MIT License`
+This project is licensed under the `MIT License`.
